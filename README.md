@@ -10,4 +10,4 @@ Part 3
 In this part we try to improve performance of the model by using a larger model (adding an extra layer to the model), however, we get worse results than the ones in part 2. The code is in the bostonhousingdatamodeltuning file
 
 Part 4
-We shall attempt to improve performance by reducing the size of the model.
+We shall attempt to improve performance by reducing the size of the model, and increasing the number of neurons in the hidden layer. Along with that we standardize the data using pipelines to eliminate leakages
