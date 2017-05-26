@@ -4,3 +4,5 @@ Regression Analysis with Keras
 The dataset is the Boston Housing Data
 You can learn more about the Boston house price dataset on the UCI Machine Learning Repository.
 In this project we try to estimate the mean squared error without any data transformations
+Part 2
+After standardizing the data using the StandardScaler and Pipeline modules, there was an improvement in performance of the model. The code is isn bostonhousingstandarddata file
